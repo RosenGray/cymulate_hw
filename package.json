@@ -19,7 +19,7 @@
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
   },
-  "home":"https://rosenGray.github.io/cymulate_hw/",
+  "homepage":"https://rosenGray.github.io/cymulate_hw/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
