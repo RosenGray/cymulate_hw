@@ -15,18 +15,18 @@
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
     "react-scripts": "5.0.1",
-    "styled-components": "5.1.1",
+    "styled-components": "^5.3.6",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
   },
-  "homepage":"https://RosenGray.github.io/cymulate_hw/",
+  "homepage": "https://RosenGray.github.io/cymulate_hw/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -47,8 +47,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.19",
-    "gh-pages": "^4.0.0"
-
+    "gh-pages": "^4.0.0",
+    "@types/styled-components": "^5.1.26"
   }
 }

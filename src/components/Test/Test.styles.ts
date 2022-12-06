@@ -1,7 +1,7 @@
-import styled from 'styled-components/macro';
+import styled from "styled-components/macro";
 
+const StyledTest = styled.div`
 
-const StyledTest = styled.h1``;
-
+`;
 
 export default StyledTest;
