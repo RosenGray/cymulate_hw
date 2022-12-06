@@ -1,4 +1,5 @@
 {
+  "name": "cymulate_hw",
   "compilerOptions": {
     "target": "es5",
     "lib": [
