@@ -7,6 +7,7 @@ const StyledFooter = styled.footer`
   background: url(${backgroundImage});
   background-size: cover;
   background-position: top center;
+  transform: translateY(-80px);
 `;
 
 export default StyledFooter;

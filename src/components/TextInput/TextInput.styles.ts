@@ -3,15 +3,17 @@ import {pxToRem} from "../../utils";
 
 
 export const InputContainer = styled.div`
-  border-radius: 29px;
+  
   
 `;
 
 export const StyledTextInput = styled.input`
-
-  border-radius:8px;
+    border: 1px solid #e5e5e5;
+    border-radius: 29px;
   height:100%;
   width:100%;
+  height: 47px;
+  padding:12px;
   font-size:${pxToRem(16)};
 
   /* color:
