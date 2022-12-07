@@ -1,0 +1,1 @@
+export const backgroundImage = 'https://cymulate.com/wp-content/themes/cymulate-2022/build/images/footer-bg.png'

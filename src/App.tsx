@@ -1,14 +1,10 @@
 import React from 'react';
-import Test from './components/Test/Test';
+import ContactPage from './pages/ContactPage/ContactPage';
 
 
 
 function App() {
-  return (
-    <div className="App">
-      <Test/>
-    </div>
-  );
+  return  <ContactPage/>
 }
 
 export default App;
